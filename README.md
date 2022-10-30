@@ -1,1 +1,1 @@
-# concrete-factory-hands-on
+# Concrete factory hands-on
