@@ -5,7 +5,11 @@ Repository with source code to be used by the students as a starting point to th
 In this exercise, the student must evolve a working code that creates one type of payment (Check or Credit Card). The current version was not implemented using the Factory concept. Evolve the code to use the Concrete Factory technique.
 
 <p align="center"> 
-<img src="Images/Payment_Type_Screen.png" title="Payment type screen" alt="Image of the software main screen">
+<img src="Images/Payment_Type_Screen.png" title="Payment type screen - Credit card" alt="Image of the software main screen for card payment">
+</p>
+
+<p align="center"> 
+<img src="Images/Payment_Type_Screen_Check.png" title="Payment type screen - Check" alt="Image of the software main screen for check payment">
 </p>
 
 ## Exercise
